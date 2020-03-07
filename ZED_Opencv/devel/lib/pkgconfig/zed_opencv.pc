@@ -1,0 +1,8 @@
+prefix=/home/lee/ZED_Opencv/devel
+
+Name: zed_opencv
+Description: Description of zed_opencv
+Version: 0.0.0
+Cflags: -I/home/lee/ZED_Opencv/src/zed_opencv/include
+Libs: -L${prefix}/lib -lzed_opencv
+Requires: cv_bridge image_transport roscpp sensor_msgs

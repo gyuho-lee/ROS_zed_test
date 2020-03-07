@@ -1,0 +1,27 @@
+%YAML:1.0
+%ZED Stereo Camera Informatino File
+LEFT_CAM_HD: !!opencv-matrix
+   rows : 3
+   cols : 3
+   dt: d
+   data: [698.399 , 0 , 632.136 , 0 , 698.399 , 339.874, 0 , 0 , 1]
+LEFT_CAM_HD_D: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -0.17118, 0.0270614 , 0, 0 , 0 ]
+RIGHT_CAM_HD: !!opencv-matrix
+   rows : 3
+   cols : 3
+   dt: d
+   data: [699.817 , 0 , 645.267 , 0 , 699.817 , 349.012, 0 , 0 , 1]
+RIGHT_CAM_HD_D: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -0.171505, 0.026917 , 0, 0 , 0 ]
+BaseLine: 120.053
+CV_HD: 0.0140337
+RX_HD: 0.00447992
+RZ_HD: 0.00247007
+
