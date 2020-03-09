@@ -18,9 +18,8 @@ This project purposes to capture zed stereo camera using OpenCV.
 
 * Run project node
   * > rosrun zed_opencv zed_opencv_node  
-
-
-
+  
+  
 - [ ] Publish raw stereo image
 - [ ] Open yaml file
 - [x] open config file
