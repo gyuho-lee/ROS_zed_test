@@ -22,5 +22,5 @@ This project purposes to capture zed stereo camera using OpenCV.
   
 - [ ] Publish raw stereo image
 - [ ] Open yaml file
-- [x] open config file
+- [x] Open config file
 - [x] Publish disparity map
