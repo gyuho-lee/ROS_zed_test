@@ -5,10 +5,10 @@ ROS melodic
 OpenCV 3.4.0  
 
 Black Quotes
-> $
 > git clone https://github.com/gyuho-lee/ROS_zed_test.git  
- 
 
-$ cd ZED_opencv  
+> cd ZED_opencv
 
-$ rosrun zed_opencv zed_opencv_node
+> catkin_make
+
+> rosrun zed_opencv zed_opencv_node
