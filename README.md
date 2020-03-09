@@ -15,5 +15,5 @@
   * > catkin_make
 
 * Run project node
- * > rosrun zed_opencv zed_opencv_node
+  * > rosrun zed_opencv zed_opencv_node
 
