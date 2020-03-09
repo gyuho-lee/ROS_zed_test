@@ -1,5 +1,7 @@
 #### ROS_zed_test
 
+This project purpose to capture zed stereo camera using OpenCV.
+
 * Envrionment
   * Ubuntu 18.04
   * ROS melodic
