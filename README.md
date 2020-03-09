@@ -1,6 +1,6 @@
 #### ROS_zed_test
 
-This project purpose to capture zed stereo camera using OpenCV.
+This project purposes to capture zed stereo camera using OpenCV.
 
 * Envrionment
   * Ubuntu 18.04
@@ -19,3 +19,7 @@ This project purpose to capture zed stereo camera using OpenCV.
 * Run project node
   * > rosrun zed_opencv zed_opencv_node
 
+[] Publish raw stereo image
+[] Open yaml file
+[x] open config file
+[x] Publish disparity map
